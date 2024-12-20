@@ -1,10 +1,9 @@
 {
-  "name": "booking-resource-app-admin",
+  "name": "ecommerce-app",
   "version": "0.1.0",
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@aldabil/react-scheduler": "^2.8.2",
     "@coreui/icons": "^3.0.1",
     "@coreui/icons-react": "^2.2.1",
     "@coreui/react": "^4.11.1",
